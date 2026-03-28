@@ -1,8 +1,8 @@
 # Open Source Software Audit Project
 ---
 ## Student Details
-* **Name:** Priyanjal Rathore
-* **Reg no.:** 24BCE10790.
+* **Name:** RAHUL META
+* **Reg no.:** 24MEI10019.
 * **Course:** Open Source Software
 ## Chosen Software
 Git (Distributed Version Control System)
